@@ -208,6 +208,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 14,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-ryugen-kuden",
   "work": "隆源口伝",
@@ -220,7 +224,7 @@
   "blocks": 14,
   "chars": 4321,
   "poems": 0,
-  "yaku": 0,
+  "yaku": 14,
   "editions": 1,
   "updated": "2026-11-03",
   "updated_at": "2026-11-03T08:56:00+09:00"
